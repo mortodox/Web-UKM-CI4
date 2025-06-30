@@ -1,0 +1,19 @@
+/* style.css */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.card-title {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.95rem;
+    color: #555;
+}
+
+section h2 {
+    font-weight: 600;
+    color: #003049;
+}
